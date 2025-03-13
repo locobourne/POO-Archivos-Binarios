@@ -5,7 +5,7 @@
 + **_Búsqueda eficiente:_** Encontrar un vehículo por su identificador usando búsqueda binaria.
 + **_Generación de archivos binarios:_** Almacenar datos filtrados (vehículos medianos o grandes) en un archivo binario.
 + **_Cálculo de promedios:_** Calcular el costo promedio de alquiler de vehículos eléctricos.
-+ **_Interacción con el usuario:_** Menú interactivo para ###gestionar### las operaciones del programa.
++ **_Interacción con el usuario:_** Menú interactivo para ### gestionar ### las operaciones del programa.
 
 # Prácticas de Programación Empleadas
 
