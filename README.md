@@ -1,6 +1,4 @@
 # POO-Archivos-Binarios
-## Autor: 
-### Maximo Castillo
 
 ## Funcionalidades Clave
 + **_Inserción ordenada:_** Mantener un arreglo ordenado por identificador utilizando búsqueda binaria.
@@ -40,3 +38,6 @@
 + Importación de clases y funciones desde otros módulos.
 ### Manejo de Enumeraciones Implícitas:
 + Uso de valores numéricos para representar categorías (tamaño del vehículo y tipo de motor) y su conversión a descripciones legibles.
+
+## Autor: 
+### Maximo Castillo
