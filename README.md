@@ -7,7 +7,7 @@
 + Cálculo de promedios: Calcular el costo promedio de alquiler de vehículos eléctricos.
 + Interacción con el usuario: Menú interactivo para gestionar las operaciones del programa.
 
-Prácticas de Programación Empleadas
+# Prácticas de Programación Empleadas
 
 Programación Orientada a Objetos (POO):
 + Uso de clases y objetos para modelar entidades (en este caso, vehículos).
