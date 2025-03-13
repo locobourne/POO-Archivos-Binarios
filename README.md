@@ -1,6 +1,6 @@
 # POO-Archivos-Binarios
 
-Funcionalidades Clave
+# Funcionalidades Clave
 + Inserción ordenada: Mantener un arreglo ordenado por identificador utilizando búsqueda binaria.
 + Búsqueda eficiente: Encontrar un vehículo por su identificador usando búsqueda binaria.
 + Generación de archivos binarios: Almacenar datos filtrados (vehículos medianos o grandes) en un archivo binario.
