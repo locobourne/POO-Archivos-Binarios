@@ -1,13 +1,15 @@
 # POO-Archivos-Binarios
+## Autor: 
+### Maximo Castillo
 
-# Funcionalidades Clave
+## Funcionalidades Clave
 + **_Inserción ordenada:_** Mantener un arreglo ordenado por identificador utilizando búsqueda binaria.
 + **_Búsqueda eficiente:_** Encontrar un vehículo por su identificador usando búsqueda binaria.
 + **_Generación de archivos binarios:_** Almacenar datos filtrados (vehículos medianos o grandes) en un archivo binario.
 + **_Cálculo de promedios:_** Calcular el costo promedio de alquiler de vehículos eléctricos.
 + **_Interacción con el usuario:_** Menú interactivo para gestionar las operaciones del programa.
 
-# Prácticas de Programación Empleadas
+## Prácticas de Programación Empleadas
 ### Programación Orientada a Objetos (POO):
 + Uso de clases y objetos para modelar entidades (en este caso, vehículos).
 + Definición de métodos especiales como __init__ (constructor) y __str__ (representación en cadena).
